@@ -77,7 +77,7 @@ const sampleBooks = [
         id: 7,
         title: "ORGULLO Y PREJUICIO",
         author: "Jane Austen",
-        cover: "https://static.wikia.nocookie.net/yatoroba/images/f/fc/Orgulloyprejuicioposter.png/revision/latest?cb=20231231205652&path-prefix=es", 
+        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0VAuKRShhXCBHFKU8-peEYTB83vmU2dglBxl6Fp3e8V9AEAV0jJSbLDLcJwzUOGEHLr8&usqp=CAU", 
         category: "Novela romántica",
         year: 1813,
         pages: 432,
